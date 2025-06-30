@@ -1,0 +1,121 @@
+Variable,Value,Risk Factor
+Rating 2021,On Track,0.5337089521507834
+Rating 2021,Stand Out,0.3380813671639526
+Rating 2021,Not Rated,1.9304161937119984
+Rating 2021,Off Track,1.5845057126519866
+Country,India,1.334114797897012
+Country,Vietnam,0.9075606478534548
+Country,Colombia,0.9166136218968808
+Country,United Kingdom,0.9506179913041798
+Country,United States of America,0.956045004582135
+Country,Canada,0.8848616247402428
+Country,New Zealand,1.354987310588838
+Country,Poland,1.1802826225334182
+Country,France,0.9040966759150828
+Country,Romania,1.419055165076807
+Country,Argentina,0.9060451601304172
+Country,Mexico,0.8282465449648562
+Country,Philippines,1.422393477193988
+Country,Saudi Arabia,0.8432413385468763
+Country,Ireland,0.7547757404023189
+Country,Sweden,1.0227540263160189
+Country,Australia,1.377462114867053
+Country,Oman,0.5221052022452404
+Country,South Africa,0.976404534069021
+Country,Italy,0.6814965423050063
+Country,United Arab Emirates,0.669470848720485
+Country,Malaysia,1.3931192625370994
+Country,Hong Kong,1.334268850182281
+Country,Netherlands,0.6571271547231397
+Country,China,0.8131337430731336
+Country,Germany,0.9875189278224716
+Country,Brazil,0.9456045793691036
+Country,Finland,1.3317466028284393
+Country,Taiwan,0.3492914335488626
+Country,Ukraine,0.7657542966263526
+Country,Peru,0.7023478898993297
+Country,Spain,0.4668383791989592
+Country,Luxembourg,0.9376583223996152
+Country,Croatia,0.8508381073626139
+Country,Bahrain,0.918905155951623
+Country,Puerto Rico,0.9281870262137608
+Country,Chile,0.4040412117877739
+Country,Portugal,1.1740155652696842
+Country,Indonesia,0.5288993640362195
+Country,Japan,0.3557293798508728
+Country,Norway,0.6785164653651226
+Country,Thailand,1.2762571610439208
+Country,"Korea, Republic of",0.8313903791943256
+Country,Czechia,0.4123292366449591
+Country,Egypt,0.001
+Country,Uruguay,0.7178946530872056
+Country,Turkey,1.2964237527534186
+Country,Fiji,0.001
+Country,Singapore,1.1742472636247798
+Country,Nigeria,1.2762571610439208
+Country,Qatar,0.3612048568992229
+Country,Switzerland,1.157535564667742
+Country,Bulgaria,0.6077415052590099
+Country,Austria,1.1083285872223525
+Country,Denmark,1.0182902880669582
+Country,Botswana,0.3329366507071098
+Country,Dominican Republic,0.5587048516157938
+Country,Greece,1.093934709466218
+Country,Estonia,1.458579612621624
+Country,Panama,0.563054629872318
+Country,Guernsey,0.3828771483131763
+Country,Russian Federation,1.0142441014918575
+Country,Serbia,0.7657542966263526
+Country,Belgium,0.990066161294678
+Country,Cyprus,0.001
+Country,Israel,1.0720560152768936
+Country,Venezuela,0.8581729186329813
+Country,Myanmar,0.001
+Country,Hungary,0.4726878374236744
+Country,Bermuda,0.9571928707829408
+Country,Zambia,0.41392124141965
+Country,Isle of Man,0.001
+Country,Macao,0.4940350300815178
+Country,Latvia,0.001
+Country,Namibia,0.5890417666356559
+Country,Papua New Guinea,0.8146322304535666
+Country,Malawi,1.392280539320641
+Country,Cayman Islands,0.4030285771717645
+Country,Malta,0.6961402696603205
+Country,Kazakhstan,0.001
+Country,Slovakia,1.093934709466218
+Country,Uganda,2.252218519489272
+Country,Tunisia,0.8508381073626139
+Country,Azerbaijan,0.001
+Country,Barbados,0.806057154343529
+Country,Morocco,0.001
+Country,Slovenia,0.9571928707829408
+Country,Lithuania,0.001
+Country,Jordan,1.225206874602164
+Gender,Female,0.955931895884841
+Gender,Male,1.028648758238674
+Job Family Group,Information Technology,1.0482138030929338
+Job Family Group,Client & Customer Services,1.0609895834767744
+Job Family Group,Sales & Client / Carrier Relationship Management,0.8023440553346074
+Job Family Group,Finance,0.9769233087879372
+Job Family Group,Consulting,1.1111314139414576
+Job Family Group,Human Resources,1.0425573009477518
+Job Family Group,Investments,1.1096947857890362
+Job Family Group,Marketing,0.9402750432993352
+Job Family Group,Operations,0.9411305914099516
+Job Family Group,Office & Business Administration Services,0.7193768856813291
+Job Family Group,General Management Group,0.4785964353914703
+Job Family Group,Actuarial Services,1.2225676808783632
+Job Family Group,Underwriting Group,1.17630931108265
+Job Family Group,Creative Services,0.6015479612563703
+Job Family Group,Project Management Group,1.0232061722162469
+Job Family Group,"Legal, Compliance & Risk",0.9872671863330008
+Job Family Group,Communications,1.0704092318432883
+Job Family Group,Knowledge Services,0.6115398896668788
+Job Family Group,Catastrophe Risk Services,0.6863904059395878
+Job Family Group,Real Estate & Facilities,0.4439155342761464
+Job Family Group,Procurement,0.6563608256797308
+Job Family Group,Strategy & Corporate Development Group,0.63372769375974
+Job Family Group,Product Development Group,0.806057154343529
+Job Family Group,Jelf/Bluefin JFG,2.5525143220878417
+Job Family Group,Temporary Usage,1.0614415992840531

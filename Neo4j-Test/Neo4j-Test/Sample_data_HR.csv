@@ -1,0 +1,312 @@
+EmpID,Position,Sex,MaritalDesc,Terminated,attrition_risk,ManagerName,ManagerID,engagement_score
+10026,Production Technician I,M ,Single,0,0.35,Michael Albert,22,85
+10084,Sr. DBA,M ,Married,1,0.51,Simon Roup,4,70
+10196,Production Technician II,F,Married,1,0.81,Kissy Sullivan,20,25
+10088,Production Technician I,F,Married,0,0.59,Elijiah Gray,16,33
+10069,Production Technician I,F,Divorced,1,0.32,Webster Butler,39,90
+10002,Production Technician I,F,Single,0,0.58,Amy Dunn,11,45
+10194,Software Engineer,F,Single,0,0.70,Alex Sweetwater,10,50
+10062,Production Technician I,M ,Widowed,0,0.84,Ketsia Liebig,19,85
+10114,Production Technician I,F,Single,0,0.77,Brannon Miller,12,95
+10250,IT Support,M ,Divorced,0,0.95,Peter Monroe,7,100
+10252,Production Technician I,F,Married,1,0.68,David Stanley,14,11
+10242,Production Technician I,M ,Married,1,0.10,Kissy Sullivan,20,25
+10012,Data Analyst,M ,Divorced,0,0.80,Simon Roup,4,70
+10265,Production Technician I,M ,Single,0,0.45,Kelley Spirea,18,45
+10066,Production Technician I,M ,Divorced,1,0.04,Michael Albert,22,85
+10061,Production Technician I,M ,Single,1,0.95,Kelley Spirea,18,45
+10023,Production Technician II,F,Married,0,0.47,Kelley Spirea,18,45
+10055,Production Technician I,F,Single,0,0.16,Elijiah Gray,16,33
+10245,Database Administrator,F,Single,1,0.22,Simon Roup,4,70
+10277,Production Technician I,M ,Single,0,0.62,Webster Butler,100,90
+10046,Production Technician I,M ,Single,0,0.17,Amy Dunn,11,45
+10226,Production Technician I,F,Divorced,0,0.14,Ketsia Liebig,19,85
+10003,Production Technician I,F,Married,0,0.95,Brannon Miller,12,95
+10294,Production Technician II,F,Single,0,0.53,Michael Albert,22,85
+10267,Production Technician II,F,Single,1,0.50,Elijiah Gray,16,33
+10199,Enterprise Architect,M ,Single,1,0.88,Simon Roup,4,70
+10081,Sr. Accountant,F,Married,0,0.08,Brandon R. LeBlanc,3,5
+10175,Production Manager,M ,Single,1,0.17,Janet King,2,78
+10177,Production Technician I,F,Married,1,0.41,David Stanley,14,11
+10238,Accountant I,F,Married,0,0.21,Brandon R. LeBlanc,1,5
+10184,Production Technician II,M ,Single,0,0.16,Webster Butler,100,90
+10203,Production Technician I,F,Separated,0,0.35,Kissy Sullivan,20,25
+10188,Area Sales Manager,F,Married,1,0.39,John Smith,17,91
+10107,Production Technician II,F,Single,0,0.72,Amy Dunn,11,45
+10181,Production Technician II,M ,Married,0,0.19,Ketsia Liebig,19,85
+10150,Software Engineering Manager,M ,Single,0,0.97,Jennifer Zamora,5,45
+10001,Production Manager,M ,Single,0,0.48,Janet King,2,78
+10085,Software Engineer,F,Single,0,0.12,Alex Sweetwater,10,50
+10115,Production Technician I,M ,Single,0,0.64,Kelley Spirea,18,45
+10082,Sr. DBA,F,Single,0,0.86,Simon Roup,4,70
+10040,Area Sales Manager,F,Single,0,0.97,John Smith,17,91
+10067,Production Technician I,F,Single,0,0.31,Michael Albert,22,85
+10108,BI Director,M ,Married,0,0.34,Jennifer Zamora,5,45
+10210,Production Technician I,F,Single,0,0.99,Elijiah Gray,16,33
+10154,Production Technician I,M ,Single,0,0.76,Webster Butler,100,90
+10200,Area Sales Manager,M ,Single,0,0.98,Lynn Daneault,21,66
+10240,Production Technician I,F,Single,1,0.12,Amy Dunn,11,45
+10168,Production Technician I,F,Single,0,0.58,Ketsia Liebig,19,85
+10220,IT Support,M ,Single,0,0.50,Eric Dougall,6,70
+10275,Production Technician II,F,Married,1,0.64,Brannon Miller,12,95
+10269,Production Technician II,M ,Married,1,0.19,David Stanley,14,11
+10029,Production Technician I,M ,Married,0,0.70,Brannon Miller,12,95
+10261,Production Technician I,M ,Single,0,0.17,David Stanley,14,11
+10292,Production Technician I,M ,Single,1,0.26,Kissy Sullivan,20,25
+10282,Production Manager,M ,Divorced,0,0.06,Janet King,2,78
+10019,Director of Operations,M ,Single,0,0.77,Janet King,2,78
+10094,Production Technician I,F,Married,0,0.48,Kelley Spirea,18,45
+10193,Data Analyst,M ,Married,0,0.68,Simon Roup,4,70
+10132,Production Technician I,F,Single,0,0.02,Michael Albert,22,85
+10083,Sr. Network Engineer,M ,Single,0,0.97,Peter Monroe,7,100
+10099,Sales Manager,F,Single,0,0.82,Debra Houlihan,15,72
+10212,Sr. Network Engineer,F,Married,0,0.57,Peter Monroe,7,100
+10056,Production Technician I,F,Married,0,0.03,Elijiah Gray,16,33
+10143,Production Technician II,M ,Single,0,0.45,Kissy Sullivan,20,25
+10311,Production Technician I,M ,Married,0,0.60,Brannon Miller,12,95
+10070,Production Technician I,M ,Married,1,0.01,Webster Butler,39,90
+10155,Software Engineer,F,Single,0,0.66,Alex Sweetwater,10,50
+10306,Area Sales Manager,M ,Single,0,0.64,John Smith,17,91
+10100,Production Technician II,F,Separated,1,0.17,Kelley Spirea,18,45
+10310,Production Technician I,M ,Married,0,0.97,Amy Dunn,11,45
+10197,BI Developer,M ,Single,0,0.27,Brian Champaigne,13,82
+10276,Production Technician I,M ,Single,0,0.50,Ketsia Liebig,19,85
+10304,Area Sales Manager,F,Single,0,0.67,John Smith,17,91
+10284,Production Technician I,F,Married,0,0.72,Brannon Miller,12,95
+10207,Production Technician I,F,Single,0,0.23,David Stanley,14,11
+10133,IT Support,F,Married,0,0.76,Peter Monroe,7,100
+10028,IT Manager - Support,M ,Single,0,0.72,Jennifer Zamora,5,45
+10006,Area Sales Manager,F,Single,0,0.98,Lynn Daneault,21,66
+10105,Production Manager,F,Single,0,0.41,Janet King,2,78
+10211,Production Technician I,F,Married,0,0.68,Ketsia Liebig,19,85
+10064,Production Technician I,F,Married,1,0.73,Kissy Sullivan,20,25
+10247,Production Technician I,M ,Single,0,0.19,Kelley Spirea,18,45
+10235,Production Technician I,M ,Married,0,0.20,Kelley Spirea,18,45
+10299,Production Technician II,F,Separated,0,0.62,Michael Albert,22,85
+10280,Production Technician I,M ,Single,1,0.62,Michael Albert,22,85
+10296,Production Technician I,F,Single,1,0.49,Elijiah Gray,16,33
+10290,Software Engineer,F,Married,1,0.31,Alex Sweetwater,10,50
+10263,Production Technician II,F,Married,0,0.94,Elijiah Gray,16,33
+10136,Production Technician II,F,Single,0,0.45,Webster Butler,100,90
+10189,Production Technician I,F,Married,1,0.72,Webster Butler,39,90
+10308,Production Technician I,M ,Married,0,0.48,Amy Dunn,11,45
+10309,Network Engineer,M ,Single,0,0.17,Peter Monroe,7,100
+10049,Production Technician I,F,Married,0,0.83,Brannon Miller,12,95
+10093,Production Technician II,M ,Single,1,0.26,Amy Dunn,11,45
+10163,Production Technician II,F,Married,1,0.29,Ketsia Liebig,19,85
+10305,Area Sales Manager,M ,Married,1,0.73,Lynn Daneault,21,66
+10015,IT Director,M ,Single,0,0.42,Jennifer Zamora,5,45
+10080,Sr. Accountant,F,Married,0,0.52,Board of Directors,9,19
+10258,Area Sales Manager,M ,Single,0,0.36,Lynn Daneault,21,66
+10273,IT Support,F,Single,0,0.27,Eric Dougall,6,70
+10111,Production Technician I,M ,Single,0,0.64,David Stanley,14,11
+10257,Production Technician I,F,Single,0,0.85,Kelley Spirea,18,45
+10159,Production Technician I,F,Married,0,0.83,Michael Albert,22,85
+10122,Production Technician I,F,Divorced,1,0.47,Elijiah Gray,16,33
+10142,Area Sales Manager,F,Widowed,1,0.96,John Smith,17,91
+10283,Production Technician I,M ,Married,1,0.47,Webster Butler,39,90
+10018,Production Technician I,F,Single,0,0.67,Amy Dunn,11,45
+10255,Area Sales Manager,F,Single,0,0.19,Lynn Daneault,21,66
+10246,Database Administrator,F,Single,1,0.91,Simon Roup,4,70
+10228,IT Support,M ,Married,0,0.72,Peter Monroe,7,100
+10243,Production Technician I,F,Single,0,0.64,Ketsia Liebig,19,85
+10031,Production Technician I,M ,Divorced,0,0.56,Brannon Miller,12,95
+10300,Production Technician II,M ,Married,1,0.91,Brannon Miller,12,95
+10101,IT Support,F,Separated,0,0.65,Peter Monroe,7,100
+10237,Production Technician II,F,Married,0,0.18,David Stanley,14,11
+10051,Production Technician I,M ,Married,0,0.28,David Stanley,14,11
+10218,Production Technician II,F,Separated,0,0.90,Kissy Sullivan,20,25
+10256,Production Technician I,F,Married,0,0.30,Kissy Sullivan,20,25
+10098,Production Manager,M ,Divorced,0,0.43,Janet King,2,78
+10059,Production Technician I,F,Divorced,1,0.54,Kelley Spirea,18,45
+10234,BI Developer,M ,Married,0,0.55,Brian Champaigne,13,82
+10109,Area Sales Manager,M ,Single,1,0.05,John Smith,17,91
+10125,Production Technician I,F,Married,0,0.43,Michael Albert,22,85
+10074,Production Technician II,M ,Single,0,0.08,Kelley Spirea,18,45
+10097,Production Technician I,F,Single,1,0.94,Webster Butler,39,90
+10007,Production Technician I,F,Married,0,0.38,Amy Dunn,11,45
+10129,Production Technician I,M ,Single,0,0.67,Ketsia Liebig,19,85
+10075,Production Technician II,F,Single,1,0.49,Kelley Spirea,18,45
+10167,Area Sales Manager,M ,Married,0,0.61,John Smith,17,91
+10195,Production Technician II,F,Married,1,0.02,Michael Albert,30,85
+10112,Database Administrator,F,Single,0,0.08,Simon Roup,4,70
+10272,Director of Sales,F,Married,0,0.06,Janet King,2,78
+10182,Administrative Assistant,F,Married,1,0.89,Brandon R. LeBlanc,1,5
+10248,Production Technician I,F,Single,0,0.38,Ketsia Liebig,19,85
+10201,Production Technician II,F,Single,0,0.33,Elijiah Gray,16,33
+10214,Production Technician II,F,Separated,0,0.48,Webster Butler,100,90
+10160,Production Technician II,F,Divorced,1,0.99,Amy Dunn,11,45
+10289,Production Manager,M ,Married,1,0.72,Janet King,2,78
+10139,Production Technician I,F,Single,0,0.19,Brannon Miller,12,95
+10227,Production Technician I,F,Single,0,0.26,David Stanley,14,11
+10236,Production Technician I,F,Divorced,0,0.04,Kissy Sullivan,20,25
+10009,Production Technician II,F,Divorced,0,0.69,Ketsia Liebig,19,85
+10060,Production Technician I,F,Separated,0,0.27,Kelley Spirea,18,45
+10034,Production Technician I,M ,Married,1,0.33,Michael Albert,22,85
+10156,Database Administrator,F,Married,0,0.86,Simon Roup,4,70
+10036,Production Technician II,F,Single,0,0.04,Brannon Miller,12,95
+10138,Production Technician I,F,Married,1,0.52,Elijiah Gray,16,33
+10244,Sales Manager,F,Single,1,0.96,Debra Houlihan,15,72
+10192,Production Technician I,M ,Single,0,0.63,Michael Albert,22,85
+10231,Area Sales Manager,M ,Single,0,0.73,Lynn Daneault,21,66
+10089,President & CEO,F,Married,0,0.81,Board of Directors,9,19
+10166,Production Technician I,F,Married,1,0.91,Webster Butler,39,90
+10170,Production Technician I,F,Married,1,0.57,Amy Dunn,11,45
+10208,Production Technician I,M ,Single,0,0.07,Ketsia Liebig,19,85
+10176,Production Technician I,M ,Married,0,0.22,Brannon Miller,12,95
+10165,Area Sales Manager,M ,Single,0,0.77,John Smith,17,91
+10113,Sr. Network Engineer,M ,Married,0,0.16,Peter Monroe,7,100
+10092,Production Manager,M ,Married,1,0.63,Janet King,2,78
+10106,Production Technician II,F,Divorced,1,0.96,David Stanley,14,11
+10052,Production Technician I,M ,Married,0,0.43,David Stanley,14,11
+10038,Accountant I,M ,Divorced,0,0.30,Brandon R. LeBlanc,1,5
+10249,Production Technician II,M ,Married,1,0.28,Kissy Sullivan,20,25
+10232,Senior BI Developer,F,Single,0,0.71,Brian Champaigne,13,82
+10087,Production Technician I,F,Single,1,0.76,Kissy Sullivan,20,25
+10134,Shared Services Manager,M ,Married,0,0.79,Janet King,2,78
+10251,Production Technician I,M ,Married,0,0.42,Elijiah Gray,16,33
+10103,Area Sales Manager,M ,Separated,0,0.51,John Smith,17,91
+10017,Production Manager,F,Married,0,0.20,Janet King,2,78
+10186,Production Technician I,F,Married,1,0.91,Michael Albert,22,85
+10137,Production Technician II,M ,Married,0,0.67,Kelley Spirea,18,45
+10008,IT Support,F,Single,0,0.51,Eric Dougall,6,70
+10096,Production Technician II,F,Widowed,1,0.89,Michael Albert,22,85
+10035,Production Technician II,F,Single,0,0.52,Elijiah Gray,16,33
+10057,Production Technician I,F,Married,0,0.90,Elijiah Gray,16,33
+10004,Production Technician I,F,Single,1,0.39,Webster Butler,39,90
+10191,Production Technician I,M ,Widowed,1,0.52,Amy Dunn,11,45
+10219,Production Technician I,F,Single,0,0.11,Ketsia Liebig,19,85
+10077,Production Technician II,F,Married,0,0.98,Webster Butler,100,90
+10073,Production Technician II,F,Married,1,0.48,Amy Dunn,11,45
+10279,Production Technician I,F,Married,0,0.37,Brannon Miller,12,95
+10110,Software Engineer,F,Single,0,0.75,Alex Sweetwater,10,50
+10053,Production Technician I,F,Married,0,0.58,David Stanley,14,11
+10076,Production Technician II,F,Single,0,0.75,Ketsia Liebig,19,85
+10145,Production Technician I,F,Married,0,0.61,Kissy Sullivan,20,25
+10202,Area Sales Manager,M ,Married,0,0.62,Lynn Daneault,21,66
+10128,Production Technician I,F,Single,1,0.24,Kelley Spirea,18,45
+10068,Production Technician I,F,Single,0,0.51,Michael Albert,22,85
+10116,Production Manager,M ,Single,0,0.71,Janet King,2,78
+10298,Production Technician II,M ,Single,1,0.41,Brannon Miller,12,95
+10213,Production Technician II,M ,Married,0,0.98,David Stanley,14,11
+10288,IT Manager - Infra,M ,Married,0,0.21,Jennifer Zamora,5,45
+10025,Production Technician II,F,Single,0,0.71,Kissy Sullivan,20,25
+10223,Production Technician II,M ,Single,0,0.86,Kelley Spirea,18,45
+10151,Network Engineer,F,Married,0,0.47,Peter Monroe,7,100
+10254,Production Technician I,F,Divorced,0,0.44,Elijiah Gray,16,33
+10120,Production Technician II,M ,Separated,0,0.13,Michael Albert,22,85
+10216,Production Technician I,M ,Single,0,0.67,Kissy Sullivan,20,25
+10079,Senior BI Developer,M ,Single,0,0.33,Brian Champaigne,13,82
+10215,Production Technician I,M ,Single,1,1.00,Webster Butler,39,90
+10185,Production Technician I,M ,Married,1,0.22,Amy Dunn,11,45
+10063,Production Technician I,M ,Married,0,0.67,Ketsia Liebig,19,85
+10037,Production Technician I,F,Separated,0,0.54,Brannon Miller,12,95
+10042,Area Sales Manager,F,Single,0,0.55,Lynn Daneault,21,66
+10206,Production Technician I,F,Single,0,0.60,David Stanley,14,11
+10104,Production Technician II,F,Single,0,0.58,Elijiah Gray,16,33
+10303,Production Technician I,F,Single,1,0.05,Kissy Sullivan,20,25
+10078,Production Technician II,F,Married,1,0.39,Webster Butler,39,90
+10121,Area Sales Manager,F,Single,0,0.86,Lynn Daneault,21,66
+10021,Production Technician I,M ,Married,0,0.72,Kelley Spirea,18,45
+10281,Production Technician I,M ,Single,0,0.96,Michael Albert,22,85
+10041,Area Sales Manager,M ,Single,0,0.35,John Smith,17,91
+10148,Production Technician I,F,Married,1,0.08,Elijiah Gray,16,33
+10005,Software Engineer,M ,Single,1,0.79,Alex Sweetwater,10,50
+10259,Data Analyst,M ,Married,1,0.19,Simon Roup,4,70
+10286,Production Technician I,M ,Single,1,0.09,Webster Butler,39,90
+10297,Production Technician II,F,Married,1,0.85,Amy Dunn,11,45
+10171,Production Technician I,F,Single,1,0.96,Amy Dunn,11,45
+10032,Production Technician II,F,Married,1,0.89,Ketsia Liebig,19,85
+10130,Production Manager,F,Married,1,0.76,Janet King,2,78
+10217,Production Technician II,F,Married,0,0.92,Brannon Miller,12,95
+10016,Data Analyst,F,Married,0,0.20,Simon Roup,4,70
+10050,Production Technician I,M ,Married,1,0.97,Brannon Miller,12,95
+10164,Production Technician I,M ,Single,0,0.55,David Stanley,14,11
+10124,Area Sales Manager,F,Married,0,0.20,Lynn Daneault,21,66
+10187,Production Technician I,F,Divorced,1,0.48,Kissy Sullivan,20,25
+10225,Production Technician I,M ,Single,0,0.93,Kelley Spirea,18,45
+10262,Production Technician I,F,Divorced,1,0.49,Kissy Sullivan,20,25
+10131,Software Engineer,M ,Married,1,0.40,Janet King,2,78
+10239,BI Developer,F,Married,0,0.84,Brian Champaigne,13,82
+10152,Production Technician I,M ,Divorced,1,0.28,Michael Albert,22,85
+10140,Area Sales Manager,M ,Married,0,0.79,John Smith,17,91
+10058,Production Technician I,M ,Divorced,1,0.44,Elijiah Gray,16,33
+10011,Production Technician I,F,Married,0,0.69,Webster Butler,100,90
+10230,Production Technician II,F,Divorced,1,0.22,David Stanley,14,11
+10224,Production Technician II,M ,Married,1,0.81,Kissy Sullivan,20,25
+10047,Production Technician I,M ,Married,1,0.96,Amy Dunn,11,45
+10285,Production Technician I,F,Married,1,0.98,Ketsia Liebig,19,85
+10020,Production Technician I,M ,Widowed,0,0.16,Brannon Miller,12,95
+10162,Data Analyst,F,Married,0,0.87,Simon Roup,4,70
+10149,Principal Data Architect,F,Single,1,0.33,Simon Roup,4,70
+10086,Data Architect,F,Single,0,0.99,Brian Champaigne,13,82
+10054,Production Technician I,F,Separated,0,0.77,David Stanley,14,11
+10065,Production Technician I,M ,Single,1,0.80,Kissy Sullivan,20,25
+10198,IT Manager - DB,M ,Single,0,0.78,Jennifer Zamora,5,45
+10222,IT Manager - DB,M ,Divorced,1,0.50,Jennifer Zamora,5,45
+10126,Software Engineer,F,Married,0,0.16,Alex Sweetwater,10,50
+10295,Production Technician I,F,Single,0,0.01,Kelley Spirea,18,45
+10260,Production Technician I,M ,Single,1,0.91,Michael Albert,22,85
+10233,Production Technician II,M ,Married,0,0.15,Kelley Spirea,18,45
+10229,Data Analyst ,M ,Divorced,1,0.19,Simon Roup,4,70
+10169,Production Technician I,F,Married,0,0.88,Elijiah Gray,16,33
+10071,Production Technician I,F,Single,0,0.37,Webster Butler,100,90
+10179,Network Engineer,F,Married,0,0.89,Peter Monroe,7,100
+10091,Production Technician I,F,Married,0,0.88,Amy Dunn,11,45
+10178,Data Analyst,M ,Married,0,0.55,Simon Roup,4,70
+10039,Administrative Assistant,F,Single,0,0.12,Brandon R. LeBlanc,1,5
+10095,Production Technician II,F,Single,1,0.77,Michael Albert,22,85
+10027,Production Technician II,M ,Single,0,0.32,Elijiah Gray,16,33
+10291,Sales Manager,M ,Divorced,0,0.45,Debra Houlihan,15,72
+10153,Administrative Assistant,F,Married,1,0.35,Brandon R. LeBlanc,1,5
+10157,Production Technician I,F,Single,0,0.36,Ketsia Liebig,19,85
+10119,IT Support,F,Married,0,0.10,Eric Dougall,6,70
+10180,Sr. Network Engineer,M ,Married,0,0.17,Peter Monroe,7,100
+10302,Production Technician I,F,Married,0,0.83,Brannon Miller,12,95
+10090,Production Manager,F,Married,0,0.68,Janet King,2,78
+10030,Production Technician I,F,Divorced,1,0.16,David Stanley,14,11
+10278,Production Technician I,F,Divorced,0,0.79,Kissy Sullivan,20,25
+10307,Area Sales Manager,M ,Married,0,0.59,Lynn Daneault,21,66
+10147,Accountant I,M ,Single,0,0.86,Brandon R. LeBlanc,1,5
+10266,Production Technician I,M ,Married,0,0.04,Kelley Spirea,18,45
+10241,Area Sales Manager,F,Married,0,0.26,John Smith,17,91
+10158,Production Manager,F,Married,0,0.03,Janet King,2,78
+10117,Production Technician I,M ,Married,0,0.32,Michael Albert,22,85
+10209,Production Technician I,F,Single,0,0.92,Elijiah Gray,16,33
+10024,Software Engineer,M ,Single,0,0.77,Alex Sweetwater,10,50
+10173,BI Developer,M ,Married,0,0.95,Brian Champaigne,13,82
+10221,Production Technician I,F,Married,1,0.05,Webster Butler,39,90
+10146,Production Technician II,F,Married,1,0.14,Elijiah Gray,16,33
+10161,Area Sales Manager,F,Single,0,0.22,Lynn Daneault,21,66
+10141,Production Technician I,F,Single,1,0.58,Amy Dunn,11,45
+10268,Production Technician II,M ,Widowed,1,0.83,Webster Butler,39,90
+10123,Production Technician I,F,Divorced,0,0.29,Brannon Miller,12,95
+10013,Area Sales Manager,M ,Separated,0,0.75,Lynn Daneault,21,66
+10287,Production Technician I,F,Single,0,0.44,David Stanley,14,11
+10044,Network Engineer,M ,Married,1,0.25,Peter Monroe,7,100
+10102,Software Engineer,M ,Single,1,0.97,Alex Sweetwater,10,50
+10270,Production Technician II,F,Single,1,0.28,Amy Dunn,11,45
+10045,Network Engineer,M ,Married,0,0.87,Peter Monroe,7,100
+10205,Area Sales Manager,F,Married,0,0.73,John Smith,17,91
+10014,Production Technician I,M ,Divorced,1,0.75,Kissy Sullivan,20,25
+10144,Production Manager,M ,Divorced,0,0.44,Janet King,2,78
+10253,Area Sales Manager,M ,Single,0,0.49,John Smith,17,91
+10118,Database Administrator,M ,Married,1,0.52,Simon Roup,4,70
+10022,Production Technician I,F,Married,1,0.34,Kelley Spirea,18,45
+10183,Production Technician I,F,Single,0,0.48,Michael Albert,22,85
+10190,Production Technician II,M ,Single,0,0.86,Ketsia Liebig,19,85
+10274,Production Manager,F,Married,1,0.24,Janet King,2,78
+10293,Production Technician I,F,Single,1,0.10,Elijiah Gray,16,33
+10172,Senior BI Developer,M ,Single,0,0.14,Brian Champaigne,13,82
+10127,Sr. Network Engineer,F,Widowed,0,0.37,Peter Monroe,7,100
+10072,Production Technician I,M ,Single,1,0.88,Webster Butler,39,90
+10048,Production Technician I,M ,Married,1,0.54,Amy Dunn,11,45
+10204,Production Technician I,F,Divorced,1,0.62,Ketsia Liebig,19,85
+10264,Production Technician I,F,Single,1,0.26,Ketsia Liebig,19,85
+10033,Production Technician II,M ,Single,1,1.00,Brannon Miller,12,95
+10174,Production Technician II,F,Single,0,0.60,David Stanley,14,11
+10135,Production Technician II,M ,Single,0,0.00,Kissy Sullivan,20,25
+10301,Production Technician I,F,Single,1,0.74,Brannon Miller,12,95
+10010,CIO,F,Single,0,0.44,Janet King,2,78
+10043,Data Analyst,F,Single,0,0.84,Simon Roup,4,70
+10271,Production Technician I,F,Widowed,0,0.95,David Stanley,14,11
